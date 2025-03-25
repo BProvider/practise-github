@@ -1,2 +1,5 @@
 this is file 2
 this is modified file 2
+bp1
+bp2
+bp3
